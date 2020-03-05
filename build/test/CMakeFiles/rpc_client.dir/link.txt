@@ -1,0 +1,1 @@
+/usr/bin/c++   -g    CMakeFiles/rpc_client.dir/testrpcclient.cpp.o CMakeFiles/rpc_client.dir/service.pb.cc.o  -o ../../bin/rpc_client  -L/home/liuchen/校招/murpc/lib/murpc -rdynamic ../../lib/murpc/libmurpc.a -lmuduo_net -lmuduo_base -lprotobuf -lzookeeper_mt ../../lib/tinyxml/libtinyxml.so -lpthread -Wl,-rpath,/home/liuchen/校招/murpc/lib/murpc:/home/liuchen/校招/murpc/lib/tinyxml 

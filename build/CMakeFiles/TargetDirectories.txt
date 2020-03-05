@@ -1,0 +1,4 @@
+/home/liuchen/校招/murpc/build/src/CMakeFiles/murpc.dir
+/home/liuchen/校招/murpc/build/test/CMakeFiles/rpc_client.dir
+/home/liuchen/校招/murpc/build/test/CMakeFiles/rpc_server.dir
+/home/liuchen/校招/murpc/build/thirdparty/tinyxml/CMakeFiles/tinyxml.dir
